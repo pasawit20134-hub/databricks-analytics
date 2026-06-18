@@ -1,2 +1,2 @@
 # databricks-analytics
-In-class Homework from datasparkTH bootcamp 
+In-class Homework&Exercise from datasparkTH bootcamp 
